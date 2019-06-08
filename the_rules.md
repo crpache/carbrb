@@ -22,6 +22,7 @@ workflow:<br>
 -git push origin HEAD (or my-branch)<br>
 -create PR in github, base:dev compare:my-branch<br>
 -description: trello card url<br>
--trello: move card to "Pending Verification"<br>
+-trello: comment pull request url in task card
+-move card to "Pending Verification"<br>
 
 NEVER PUSH TO MASTER
